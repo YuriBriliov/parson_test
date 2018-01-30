@@ -1,0 +1,68 @@
+body {
+  width: 1520px;
+  height: 715px;
+
+  padding: 5px;
+  margin: 0 auto;
+  background-color: lightgreen;
+}
+
+header {
+  height: 50px;
+
+  margin-bottom: 12px;
+  background-color: #fff;
+}
+
+header h1 {
+  margin: 0 auto;
+  text-align: center;
+}
+
+
+.guests {
+  width: 200px;
+  height: 540px;
+  margin-bottom: 12px;
+  float: left;
+
+  font-family: tahoma;
+  font-size: 12px;
+  color: orange;
+  overflow-y: auto;
+  background-color: #fff;
+}
+
+.chatBox {
+  width: 1307px;
+  height: 540px;
+  margin-left: 210px;
+  margin-bottom: 12px;
+
+  font-family: tahoma;
+  font-size: 12px;
+  color: black;
+  overflow-y: auto;
+  background-color: #fff;
+}
+
+
+
+footer {
+  height: 100px;
+  
+  margin-bottom: 12px;
+  margin: 0 auto;
+  background-color: #fff;
+}
+
+#message {
+  margin: 0 auto;
+  width: 1400px;
+  height: 18px;
+}
+
+#send {
+    margin: 0 auto;
+    width: 80px;
+}
